@@ -1,2 +1,4 @@
 # MyBookStore
-books
+kindle(mobi)
+pdf
+
