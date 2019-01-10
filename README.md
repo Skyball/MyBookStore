@@ -8,6 +8,8 @@
 ### OTHER
 [OTHER](https://github.com/Skyball/MyBookStore/tree/master/Kindle/OTHER)
 
+---
+
 ## PDF
 ### FINANCE
 #### READ
